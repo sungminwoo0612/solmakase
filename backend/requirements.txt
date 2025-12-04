@@ -1,0 +1,30 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+alembic
+psycopg2-binary
+
+# LLM
+langchain
+langchain-openai
+openai>=1.6.1,<2.0.0
+
+# File Processing
+PyPDF2
+python-docx
+python-pptx
+
+# Utilities
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Testing
+pytest
+pytest-asyncio
+httpx
