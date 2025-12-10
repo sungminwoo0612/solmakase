@@ -40,13 +40,17 @@
 
 ## 아키텍처
 
-Clean Architecture 기반으로 설계되어 도메인 중심의 계층형 구조를 채택했습니다. Domain Layer, Use Case Layer, Interface Adapter Layer, Framework Layer로 구분하여 의존성 역전 원칙을 적용했습니다.
+- Clean Architecture 기반으로 설계되어 도메인 중심의 계층형 구조를 채택했습니다. 
+- Domain Layer, Use Case Layer, Interface Adapter Layer, Framework Layer로 구분하여<br> 
+  의존성 역전 원칙을 적용했습니다.
 
 ## 개발 기간
 
 총 7일 (개인 프로젝트)
 
 ## 역할
-
-기획, 설계, 프론트엔드/백엔드 개발, LLM/RAG 연동, IaC 코드 생성, 모니터링 시스템 구축, 테스트, 문서화까지 전 과정을 단독으로 담당했습니다.
+- 기획 & 설계
+- FE/BE 개발, LLM/RAG 연동, 
+- 모니터링 시스템 구축
+- 테스트, 문서화까지 
 
